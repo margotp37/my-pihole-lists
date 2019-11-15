@@ -11,3 +11,28 @@ https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadb
 https://github.com/anudeepND/youtubeadsblacklist/blob/master/domainlist.txt
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+## HenningVanRaumle Youtube Ads
+https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+## ChadMayfield Heavy Porn Blocklist
+https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+## Ublock Pihole
+http://pi.hole/lists/ublock.txt
+Youtube Parser
+http://pi.hole/lists/youtube.txt
+## Adguard
+http://pi.hole/lists/adguard.txt
+# PHP Parser
+http://pi.hole/lists/parser.php?list=antipopads
+http://pi.hole/lists/parser.php?list=adware_filters
+http://pi.hole/lists/parser.php?list=easyprivacy_easylist
+http://pi.hole/lists/parser.php?list=adguard_dns
+http://pi.hole/lists/parser.php?list=fanboy_ultimate
+http://pi.hole/lists/parser.php?list=blockzilla
+http://pi.hole/lists/parser.php?list=openpish
+http://pi.hole/lists/parser.php?list=malwareurls
+http://pi.hole/lists/parser.php?list=adguard_mobile
+http://pi.hole/lists/parser.php?list=easylist_de2
+http://pi.hole/lists/parser.php?list=adguard_en
+http://pi.hole/lists/parser.php?list=adguard_de
+## piholeextendedhosts
+http://pi.hole/lists/extended.txt
