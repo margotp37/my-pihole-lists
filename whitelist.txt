@@ -1,2 +1,5 @@
 github.com
 f-droid.org
+googleadservices.com
+mailhost.arps-fontenailles.fr
+arps-fontenailles.fr
